@@ -1,6 +1,4 @@
-### Hi there 👋
 
-me
 
 
 <h2> Hi, I'm Hugo Torres <img src="https://avatars2.githubusercontent.com/u/1964217?s=460&u=4f2ebb3127ae896cf5ae0927959870ca72ecc6a1&v=4" width="40"></h2>
