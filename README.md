@@ -17,7 +17,7 @@ System Engineer
 
 ```javascript
 const hugotorres = {
-  hobbies: ["Drawing", "horror movies","candies", "hanging out with my daughter"]
+  hobbies: ["Drawing", "horror movies","candies", "hanging out with my daughter"],
   code: ["Javascript", "Typescript", "HTML", "CSS"],
   tools: ["Vue", "Redux", "Angular", "AngularJS", "RxJs"],
   architecture: ["Design System Pattern"],
