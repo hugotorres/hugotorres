@@ -29,7 +29,7 @@ const hugotorres = {
 
 
 ## 📫 Contact Me
-- Twitter - [@hugotorres](https://twitter.com/vhugotorres)
+- Twitter - [@hugotorres](https://twitter.com/hugotorres)
 - LinkedIn - [hugo torres](https://www.linkedin.com/in/hugotorreslinares/)
 
 ---
